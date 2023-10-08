@@ -1,0 +1,3 @@
+databaseChangeLog:
+  - include:
+      file: changelog/db/release/1.0/create-first-table.xml
